@@ -12,8 +12,13 @@ A simple command-line expense tracker built with Python.
 
 ## How to Run
 
+## How to Run
 1. Clone the repo
-2. run the script
+   git clone https://github.com/Roshan697/Expense_tracker.git
+2. Navigate to folder
+   cd Expense_tracker
+3. Run the script
+   python expense_tracker.py
 
 ## What i learned
 - Python functions and dictionaries
