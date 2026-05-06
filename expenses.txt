@@ -1,0 +1,3 @@
+groceries,4000.0
+water bill,1000.0
+electricity,10000.0
