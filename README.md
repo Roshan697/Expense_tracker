@@ -21,3 +21,4 @@ A simple command-line expense tracker built with Python.
 - Exception handling
 - Building CLI application
 
+## WILL ADD MORE FEATURES SUCH AS DATE TRACKING, SEARCH FOR EXPENSE, BUDGET LIMIT, EDIT EXPENSE IN THE NEXT PHASE
